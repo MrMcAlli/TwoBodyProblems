@@ -1,6 +1,5 @@
 # Two Body Problems in Python<br/>
 
-2D (Working): TwoBody_2.py
-3D (WIP): TwoBodyPy.py
-
+2D (Working):<br/> **TwoBody_2.py** <br/>
+3D (WIP):<br/> TwoBodyPy.py<br/>
 For fun and experimentation, I think astrophysics is cool because the math is big sometimes<br/>
